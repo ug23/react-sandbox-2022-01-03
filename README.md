@@ -1,2 +1,3 @@
-# react-sandbox-2022-01-03
-Created with CodeSandbox
+# 挫折しないReact本の写経repository
+
+https://www.sbcr.jp/product/4815610722/
