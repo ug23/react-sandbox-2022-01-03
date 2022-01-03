@@ -1,6 +1,4 @@
 export const ColoredMessage = (props) => {
-  console.log(props);
-
   const contentStyle = {
     color: props.color,
     fontSize: "20px"
